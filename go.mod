@@ -14,4 +14,4 @@ require (
 	google.golang.org/grpc v1.33.1
 )
 
-replace github.com/grpc-ecosystem/grpc-gateway v1.16.0 => github.com/qiwenilli/grpc-gateway v1.16.4
+replace github.com/grpc-ecosystem/grpc-gateway v1.16.0 => github.com/qiwenilli/grpc-gateway v1.16.6
