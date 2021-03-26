@@ -36,9 +36,9 @@ var (
 
 // Variables set by goreleaser at build time
 var (
-	version = "dev"
-	commit  = "unknown"
-	date    = "unknown"
+	version = "v1.6.5"
+	commit  = "34214399@qq.com"
+	date    = "Fri Mar 26 19:07:37 CST 2021"
 )
 
 func main() {
