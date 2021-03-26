@@ -17,4 +17,4 @@ require (
 	gopkg.in/yaml.v2 v2.2.3 // indirect
 )
 
-replace github.com/grpc-ecosystem/grpc-gateway v1.16.0 => github.com/qiwenilli/grpc-gateway v1.16.2
+replace github.com/grpc-ecosystem/grpc-gateway v1.16.0 => github.com/qiwenilli/grpc-gateway v1.16.3
